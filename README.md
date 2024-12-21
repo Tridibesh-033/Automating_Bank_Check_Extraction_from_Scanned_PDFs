@@ -17,7 +17,7 @@ This project automates cheque processing by extracting key details like date, pa
 
 ## User Application (Future Enhancements)
 
-![img alt]()
+![img alt](https://github.com/Tridibesh-033/Automating_Bank_Check_Extraction_from_Scanned_PDFs/blob/main/ui.png?raw=true)
 
 ## Significance of the Project
 a)	Automates Manual Tasks
