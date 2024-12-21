@@ -15,6 +15,10 @@ This project automates cheque processing by extracting key details like date, pa
 4)	Data Compilation: Extracted data is structured into a CSV file.
 5)	Visualization: Results are displayed as a dynamic table in the application.
 
+## User Application (Future Enhancements)
+
+![img alt]()
+
 ## Significance of the Project
 a)	Automates Manual Tasks
 b)	Saves Time
